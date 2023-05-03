@@ -1,2 +1,2 @@
-component : frontend
-params:
+component : shipping
+params: "CART_ENDPOINT:prod.shipping.cart_endpoint,DB_HOST:prod.rds_endpoint_shipping"
